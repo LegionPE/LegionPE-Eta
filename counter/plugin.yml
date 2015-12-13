@@ -1,0 +1,5 @@
+name: PlayerCounter
+author: PEMapModder
+version: 0.0
+api: 1.0.0
+main: counter\Counter

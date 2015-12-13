@@ -1,0 +1,18 @@
+---
+name: LegionPE_Eta
+authors:
+- PEMapModder
+api:
+- 1.12.0
+main: legionpe\LegionPE
+website: http://lgpe.co/l
+version: 4.4.3 # Notice! Do not use random names! MySQL query did not escape this string!
+permissions:
+  legionpe:
+    description: Placeholder permission node for LegionPE. Do NOT modify this or sessioning will be messed up.
+    default: false
+    children:
+      legionpe.chatmod:
+        description: Permission to moderate/operate chat as a chat oper
+        default: false
+...
