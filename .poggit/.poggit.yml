@@ -1,0 +1,10 @@
+---
+branches: master
+projects:
+  LegionPE-Core:
+    path: /LegionPE-Core/
+    model: default
+  counter:
+    path: /counter/
+    model: default
+...
